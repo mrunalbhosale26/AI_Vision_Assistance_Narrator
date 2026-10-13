@@ -22,7 +22,7 @@ The app uses **object detection** and **depth estimation** to guide the user saf
 
 ## Team members
 - Mrunal Bhosale
-- Sweta Wagmode
+- Shweta Wagmode
 - Kashish Chavan
 
 ---
